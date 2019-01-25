@@ -1,6 +1,6 @@
 ## Welcome to the Blink Prototype App
 
-This is simple guide to help you understand what the app is doing while you're using it.
+This is a simple guide to help you understand what the app is doing while you're using it.
 
 We you first visit https://www.msrhwb.com you're presented with an option to participate in the development of this algorithm. By clicking yes, a cookie is set in your browser to remember your choice. After you've submitted a query to the algorithm and image results have been displayed, based on your preferences set in the cookie you either have an option to decide if an image is relevant or not relevent. Cookies set to No do not see this option. 
 
